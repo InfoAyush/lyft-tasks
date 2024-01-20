@@ -1,2 +1,2 @@
 # Starter Repo
-This repo has everything you need to get started on the program, good luck!
+Hi this is Ayush Singh and this is my repository which contains the model answer for the task 2 of lyft back end engineering given by FORAGE.
