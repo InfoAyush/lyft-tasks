@@ -1,2 +1,2 @@
-# lyft-tasks
-This repository contains the model answers created by me for the lyft back end engineering certification provided by the platform Forage. 
+# Starter Repo
+This repo has everything you need to get started on the program, good luck!
